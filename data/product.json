@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Polo T-Shirt",
+    "image": "https://images.meesho.com/images/products/398018993/sqjhi_400.webp",
+    "price": "$25"
+  },
+  {
+    "id": 2,
+    "name": "Men's Slim Fit Jeans",
+    "image": "https://images.meesho.com/images/products/426065645/obtip_400.webp",
+    "price": "$40"
+  },
+  {
+    "id": 3,
+    "name": "Men's Casual Shorts",
+    "image": "https://images.meesho.com/images/products/382299384/9ab18_400.webp",
+    "price": "$20"
+  },
+  {
+    "id": 4,
+    "name": "Men's Graphic T-Shirt",
+    "image": "https://images.meesho.com/images/products/374559728/masvx_400.webp",
+    "price": "$22"
+  },
+  {
+    "id": 5,
+    "name": "Men's Cargo Pants",
+    "image": "https://images.meesho.com/images/products/437848126/38tfy_400.webp",
+    "price": "$45"
+  },
+  {
+    "id": 6,
+    "name": "Men's Sweatshirt",
+    "image": "https://images.meesho.com/images/products/323869881/lg8p1_400.webp",
+    "price": "$30"
+  },
+  {
+    "id": 7,
+    "name": "Men's Denim Jacket",
+    "image": "https://images.meesho.com/images/products/380862227/eqt5k_400.webp",
+    "price": "$60"
+  },
+  {
+    "id": 8,
+    "name": "Men's Chino Pants",
+    "image": "https://images.meesho.com/images/products/420953058/dibgz_400.webp",
+    "price": "$35"
+  },
+  {
+    "id": 9,
+    "name": "Men's Button-Down Shirt",
+    "image": "https://images.meesho.com/images/products/418724137/gqxlr_400.webp",
+    "price": "$28"
+  },
+  {
+    "id": 10,
+    "name": "Men's Track Pants",
+    "image": "https://images.meesho.com/images/products/149896306/oprro_400.webp",
+    "price": "$25"
+  },
+  {
+    "id": 11,
+    "name": "Women's Polo T-Shirt",
+    "image": "https://images.meesho.com/images/products/418561782/yqqmd_400.webp",
+    "price": "$22"
+  },
+  {
+    "id": 12,
+    "name": "Women's Skinny Jeans",
+    "image": "https://images.meesho.com/images/products/431389537/5grhx_400.webp",
+    "price": "$40"
+  },
+  {
+    "id": 13,
+    "name": "Women's Casual Skirt",
+    "image": "https://images.meesho.com/images/products/395022280/gk6zq_400.webp",
+    "price": "$30"
+  },
+  {
+    "id": 14,
+    "name": "Women's Floral Dress",
+    "image": "https://images.meesho.com/images/products/432670855/vhnvr_400.webp",
+    "price": "$45"
+  },
+  {
+    "id": 15,
+    "name": "Women's Long Sleeve Top",
+    "image": "https://images.meesho.com/images/products/303267661/gk2b7_400.webp",
+    "price": "$25"
+  },
+  {
+    "id": 16,
+    "name": "Women's Denim Jacket",
+    "image": "https://images.meesho.com/images/products/175748710/n4xdm_400.webp",
+    "price": "$50"
+  },
+  {
+    "id": 17,
+    "name": "Women's Wrap Dress",
+    "image": "https://images.meesho.com/images/products/411545937/wk43j_400.webp",
+    "price": "$55"
+  },
+  {
+    "id": 18,
+    "name": "Women's Jogger Pants",
+    "image": "https://images.meesho.com/images/products/417631640/oz9cn_400.webp",
+    "price": "$35"
+  },
+  {
+    "id": 19,
+    "name": "Women's Cardigan",
+    "image": "https://images.meesho.com/images/products/429568804/oqb6x_400.webp",
+    "price": "$40"
+  },
+  {
+    "id": 20,
+    "name": "https://images.meesho.com/images/products/390530537/zwujm_400.webp",
+    "price": "$18"
+  }, 
+  {
+    "id": 21,
+    "name": "Men's Cargo Pants",
+    "image": "https://images.meesho.com/images/products/437003346/sha5h_400.webp",
+    "price": "$45"
+  }
+]

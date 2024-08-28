@@ -1,0 +1,22 @@
+/* Custom Styles for E-commerce Site */
+#search-bar {
+  margin-top: 10px;
+}
+
+#search-results {
+  margin-top: 20px;
+}
+
+.product-card {
+  transition: transform 0.2s;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
